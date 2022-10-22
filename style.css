@@ -1,0 +1,20 @@
+#head {text-align: center;
+font-size: 45px;
+color: orange;}
+
+.one {text-decoration: underline;
+color: black;
+width: 400px;
+font-size: 20px; 
+}
+
+.button {
+background-color: orange; font-size: 17px;
+}
+
+.first,
+.two,
+.three {
+width: 200px; height: 30px;
+}
+
