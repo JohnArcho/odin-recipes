@@ -5,7 +5,8 @@ color: orange;}
 .one {text-decoration: underline;
 color: black;
 width: 400px;
-font-size: 20px; 
+font-size: 27px;
+font-style: italic;
 }
 
 .button {
