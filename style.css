@@ -1,6 +1,8 @@
 #head {text-align: center;
 font-size: 45px;
-color: orange;}
+color: orange;
+font-family:Arial, 'Helvetica', sans-serif;
+background-color: black;}
 
 .one {text-decoration: underline;
 color: black;
